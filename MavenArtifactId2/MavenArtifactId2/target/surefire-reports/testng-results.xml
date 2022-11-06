@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92500" started-at="2022-11-06T18:07:50Z" finished-at="2022-11-06T18:09:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92500" started-at="2022-11-06T18:07:50Z" finished-at="2022-11-06T18:09:23Z">
+      <class name="mavenPackage.ChromeBrowserLaunch">
+        <test-method status="PASS" signature="chrometest()[pri:0, instance:mavenPackage.ChromeBrowserLaunch@402f32ff]" name="chrometest" duration-ms="6806" started-at="2022-11-06T23:38:02Z" finished-at="2022-11-06T23:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrometest -->
+      </class> <!-- mavenPackage.ChromeBrowserLaunch -->
+      <class name="mavenPackage.RadioButtonDemo1">
+        <test-method status="PASS" signature="radioButtonDemoTest()[pri:0, instance:mavenPackage.RadioButtonDemo1@548b7f67]" name="radioButtonDemoTest" duration-ms="19589" started-at="2022-11-06T23:38:52Z" finished-at="2022-11-06T23:39:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtonDemoTest -->
+      </class> <!-- mavenPackage.RadioButtonDemo1 -->
+      <class name="mavenPackage.CheckBoxDemo3">
+        <test-method status="PASS" signature="checkBoxTest3()[pri:0, instance:mavenPackage.CheckBoxDemo3@3c756e4d]" name="checkBoxTest3" duration-ms="11691" started-at="2022-11-06T23:37:50Z" finished-at="2022-11-06T23:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxTest3 -->
+      </class> <!-- mavenPackage.CheckBoxDemo3 -->
+      <class name="mavenPackage.PopWindoDemo1">
+        <test-method status="PASS" signature="popWindoTest()[pri:0, instance:mavenPackage.PopWindoDemo1@6d8a00e3]" name="popWindoTest" duration-ms="23388" started-at="2022-11-06T23:38:29Z" finished-at="2022-11-06T23:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popWindoTest -->
+      </class> <!-- mavenPackage.PopWindoDemo1 -->
+      <class name="mavenPackage.IframeDemo1">
+        <test-method status="PASS" signature="iframeDemo1()[pri:0, instance:mavenPackage.IframeDemo1@5ae9a829]" name="iframeDemo1" duration-ms="9982" started-at="2022-11-06T23:38:19Z" finished-at="2022-11-06T23:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframeDemo1 -->
+      </class> <!-- mavenPackage.IframeDemo1 -->
+      <class name="mavenPackage.DraganDropDemo1">
+        <test-method status="PASS" signature="draganAndDrop()[pri:0, instance:mavenPackage.DraganDropDemo1@573f2bb1]" name="draganAndDrop" duration-ms="10134" started-at="2022-11-06T23:38:09Z" finished-at="2022-11-06T23:38:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- draganAndDrop -->
+      </class> <!-- mavenPackage.DraganDropDemo1 -->
+      <class name="mavenPackage.LocatorsDemo1">
+        <test-method status="PASS" signature="locatorsDemoTest()[pri:0, instance:mavenPackage.LocatorsDemo1@7ac7a4e4]" name="locatorsDemoTest" duration-ms="10879" started-at="2022-11-06T23:39:12Z" finished-at="2022-11-06T23:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorsDemoTest -->
+      </class> <!-- mavenPackage.LocatorsDemo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+           <class name="mavenPackage.CheckBoxDemo3"/>
+            <class name="mavenPackage.ChromeBrowserLaunch"/> 
+            <class name="mavenPackage.DraganDropDemo1"/>
+              <class name="mavenPackage.IframeDemo1"/> 
+             <class name="mavenPackage.PopWindoDemo1"/>
+             <class name="mavenPackage.RadioButtonDemo1"/>
+            <class name="mavenPackage.LocatorsDemo1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
